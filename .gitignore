@@ -1,0 +1,13 @@
+# Created by https://www.toptal.com/developers/gitignore/api/node
+# Edit at https://www.toptal.com/developers/gitignore?templates=node
+
+#Arquivos
+client_secret_332693885728-8sd13ol9gjc5qctbashhkkbjdvkqhoap.apps.googleusercontent.com.json
+linksApoio.txt
+resultPageTeste.html
+testesWiki.txt
+.env
+
+
+
+#End of https://www.toptal.com/developers/gitignore/api/node
