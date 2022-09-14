@@ -1,4 +1,4 @@
-# Título do projeto
+# Tina a Assitente
 
 Projeto para senvolver minha propria assitente virtual com alexa usando somente JavaScript.
 
